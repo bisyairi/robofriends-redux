@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BIONICKIDSLANTED3D';
+    src: local('BIONICKIDSLANTED3D'), url(./fonts/BIONICKIDSLANTED3D.ttf) format('truetype');
+  }
+
+h1 {
+    font-family: BIONICKIDSLANTED3D;
+    font-weight: 500;
+    color: black;
+}
+h1:hover{
+  color: white;
+}
